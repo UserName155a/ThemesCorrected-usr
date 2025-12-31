@@ -49,9 +49,9 @@
             "#061428"
         ],
         "BACKGROUND_ACCENT": [
-            "#86b4ea",
-            "#86b4ea",
-            "#86b4ea"
+            "#C7C7CE",
+            "#C7C7CE",
+            "#C7C7CE"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#222959",
@@ -104,14 +104,14 @@
 	    "#102b48b3"
 	],
 	"BG_BASE_PRIMARY": [
-	    "#03081c",
-	    "#03081c",
-	    "#03081c"
+	    "#000000",
+	    "#000000",
+	    "#000000"
 	],
 	"BG_SURFACE_OVERLAY_TMP": [
-            "#03081c",
-	    "#03081c",
-	    "#03081c"
+            "#000000",
+	    "#000000",
+	    "#000000"
         ],
         "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
             "#0a2848",
@@ -119,14 +119,14 @@
             "#000000"
         ],
 	"CARD_PRIMARY_BG": [
-	    "#03081c",
-	    "#03081c",
-	    "#03081c"
+	    "#000000",
+	    "#000000",
+	    "#000000"
 	],
 	"CARD_SECONDARY_BG": [
-	    "#03081c",
-	    "#03081c",
-	    "#03081c"
+	    "#000000",
+	    "#000000",
+	    "#000000"
 	],
         "CHANNELS_DEFAULT": [
             "#575a68",
@@ -144,9 +144,9 @@
             "transparent"
         ],
 	"CHAT_SWIPE_TO_REPLY_BACKGROUND": [
-	    "#0f1428",
-	    "#0f1428",
-	    "#0f1428"
+	    "#141318",
+	    "#141318",
+	    "#141318"
 	],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
             "#81b6ef",
@@ -364,9 +364,9 @@
             "#111423"
 	],
 	"REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-	    "#03081c",
-	    "#03081c",
-	    "#03081c"
+	    "#000000",
+	    "#000000",
+	    "#000000"
 	],
 	"REDESIGN_BUTTON_SECONDARY_BORDER": [
 	    "#222959",
@@ -501,7 +501,7 @@
         "BLACK_860": "#000000",
         "BLACK_900": "#000000",
         "BRAND_230": "#ffffff",
-        "BRAND_260": "#86b4ea",
+        "BRAND_260": "#C7C7CE",
         "BRAND_360": "#4b96e7",
         "BRAND_500": "#2780E6",
         "BRAND_560": "#3789E6",
@@ -513,7 +513,7 @@
         "YELLOW_300": "#2780E6",
 	"PLUM_20": "#111423",
 	"PLUM_16": "#111533",
-	"PLUM_22": "#0f1428"
+	"PLUM_22": "#141318"
     },
     "background": {
         "url": "https://raw.githubusercontent.com/UserName155a/ThemesCorrected-usr/main/ClearVision/Vendetta/wallpaper-phone-aspect-ratio-tinted.png"
