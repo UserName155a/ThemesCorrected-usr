@@ -1,6 +1,6 @@
 {
     "name": "ClearVision Onyx Transparent",
-    "description": "Discord Onyx theme with a transparent chat background.",
+    "description": "Discord pure dark theme with a transparent chat background.",
     "authors": [
       {
          "name": "Taki_Shiwa, edited by Typical",
@@ -41,9 +41,7 @@
         "HEADER_SECONDARY": ["#b5bac1", "#b5bac1", "#b5bac1"],
         "INTERACTIVE_ACTIVE": ["#ffffff", "#ffffff", "#ffffff"],
         "INTERACTIVE_NORMAL": ["#949ba4", "#949ba4", "#949ba4"],
-        
-        "PANEL_BG": ["transparent", "transparent", "transparent"],
-        
+        "PANEL_BG": ["#000000", "#000000", "#000000"],
         "TEXT_MUTED": ["#949ba4", "#949ba4", "#949ba4"],
         "TEXT_NORMAL": ["#dbdee1", "#dbdee1", "#dbdee1"]
     },
