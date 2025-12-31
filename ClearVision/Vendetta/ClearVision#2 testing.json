@@ -10,7 +10,9 @@
     "semanticColors": {
         "ANDROID_RIPPLE": ["#1e1f22", "#1e1f22", "#1e1f22"],
         "ACTIVITY_CARD_BACKGROUND": ["#000000", "#000000", "#000000"],
-        "BACKGROUND_FLOATING": ["#000000", "#000000", "#000000"],
+        
+        "BACKGROUND_FLOATING": ["transparent", "transparent", "transparent"],
+        
         "BACKGROUND_MENTIONED": ["#474233", "#474233", "#474233"],
         "BACKGROUND_MENTIONED_HOVER": ["#504936", "#504936", "#504936"],
         "BACKGROUND_MESSAGE_HOVER": ["#08080a0a", "#08080a0a", "#08080a0a"],
@@ -33,7 +35,9 @@
         "CARD_SECONDARY_BG": ["#000000", "#000000", "#000000"],
         "CHANNELS_DEFAULT": ["#949ba4", "#949ba4", "#949ba4"],
         "CHANNEL_ICON": ["#80848e", "#80848e", "#80848e"],
+        
         "CHAT_BACKGROUND": ["transparent", "transparent", "transparent"],
+        
         "CHAT_SWIPE_TO_REPLY_BACKGROUND": ["#000000", "#000000", "#000000"],
         "HEADER_PRIMARY": ["#ffffff", "#ffffff", "#ffffff"],
         "HEADER_SECONDARY": ["#b5bac1", "#b5bac1", "#b5bac1"],
