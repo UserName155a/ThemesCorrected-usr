@@ -15,8 +15,8 @@
         "BACKGROUND_MENTIONED_HOVER": ["#504936", "#504936", "#504936"],
         "BACKGROUND_MESSAGE_HOVER": ["#08080a0a", "#08080a0a", "#08080a0a"],
         
-        "BACKGROUND_MOBILE_PRIMARY": ["transparent", "transparent", "transparent"],
-        "BACKGROUND_MOBILE_SECONDARY": ["transparent", "transparent", "transparent"],
+        "BACKGROUND_MOBILE_PRIMARY": ["#00000000", "#00000000", "#00000000"],
+        "BACKGROUND_MOBILE_SECONDARY": ["#00000000", "#00000000", "#00000000"],
         
         "BACKGROUND_ACCENT": ["#5865f2", "#5865f2", "#5865f2"],
         "BACKGROUND_MODIFIER_ACCENT": ["#4e50587a", "#4e50587a", "#4e50587a"],
