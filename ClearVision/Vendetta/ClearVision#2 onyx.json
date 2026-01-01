@@ -22,7 +22,9 @@
         "BACKGROUND_MODIFIER_HOVER": ["#4e505861", "#4e505861", "#4e505861"],
         "BACKGROUND_MODIFIER_SELECTED": ["#4e5058a3", "#4e5058a3", "#4e5058a3"],
         "BACKGROUND_NESTED_FLOATING": ["#000000", "#000000", "#000000"],
-        "BACKGROUND_PRIMARY": ["#00000000", "#00000000", "#00000000"],
+        
+        "BACKGROUND_PRIMARY": ["transparent", "transparent", "transparent"],
+        
         "BACKGROUND_SECONDARY": ["#000000", "#000000", "#000000"],
         "BACKGROUND_SECONDARY_ALT": ["#000000", "#000000", "#000000"],
         "BACKGROUND_TERTIARY": ["#000000", "#000000", "#000000"],
