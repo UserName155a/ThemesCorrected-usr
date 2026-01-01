@@ -24,11 +24,9 @@
         "BACKGROUND_NESTED_FLOATING": ["#000000", "#000000", "#000000"],
         
         "BACKGROUND_PRIMARY": ["transparent", "transparent", "transparent"],
-        
-        "BACKGROUND_SECONDARY": ["#000000", "#000000", "#000000"],
-        "BACKGROUND_SECONDARY_ALT": ["#000000", "#000000", "#000000"],
-        "BACKGROUND_TERTIARY": ["#000000", "#000000", "#000000"],
-        
+        "BACKGROUND_SECONDARY": ["transparent", "transparent", "transparent"],
+        "BACKGROUND_SECONDARY_ALT": ["transparent", "transparent", "transparent"],
+        "BACKGROUND_TERTIARY": ["transparent", "transparent", "transparent"],
         "BG_BACKDROP": ["transparent", "transparent", "transparent"],
         
         "BG_BASE_PRIMARY": ["#00000000", "#00000000", "#00000000"],
