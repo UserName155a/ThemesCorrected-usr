@@ -14,8 +14,10 @@
         "BACKGROUND_MENTIONED": ["#474233", "#474233", "#474233"],
         "BACKGROUND_MENTIONED_HOVER": ["#504936", "#504936", "#504936"],
         "BACKGROUND_MESSAGE_HOVER": ["#08080a0a", "#08080a0a", "#08080a0a"],
-        "BACKGROUND_MOBILE_PRIMARY": ["#00000000", "#00000000", "#00000000"],
-        "BACKGROUND_MOBILE_SECONDARY": ["#000000", "#000000", "#000000"],
+        
+        "BACKGROUND_MOBILE_PRIMARY": ["transparent", "transparent", "transparent"],
+        "BACKGROUND_MOBILE_SECONDARY": ["transparent", "transparent", "transparent"],
+        
         "BACKGROUND_ACCENT": ["#5865f2", "#5865f2", "#5865f2"],
         "BACKGROUND_MODIFIER_ACCENT": ["#4e50587a", "#4e50587a", "#4e50587a"],
         "BACKGROUND_MODIFIER_ACTIVE": ["#4e505899", "#4e505899", "#4e505899"],
@@ -23,11 +25,11 @@
         "BACKGROUND_MODIFIER_SELECTED": ["#4e5058a3", "#4e5058a3", "#4e5058a3"],
         "BACKGROUND_NESTED_FLOATING": ["#000000", "#000000", "#000000"],
         
-        "BACKGROUND_PRIMARY": ["transparent", "transparent", "transparent"],
-        "BACKGROUND_SECONDARY": ["transparent", "transparent", "transparent"],
-        "BACKGROUND_SECONDARY_ALT": ["transparent", "transparent", "transparent"],
-        "BACKGROUND_TERTIARY": ["transparent", "transparent", "transparent"],
-        "BG_BACKDROP": ["transparent", "transparent", "transparent"],
+        "BACKGROUND_PRIMARY": ["#00000000", "#00000000", "#00000000"],
+        "BACKGROUND_SECONDARY": ["#00000000", "#00000000", "#00000000"],
+        "BACKGROUND_SECONDARY_ALT": ["#00000000", "#00000000", "#00000000"],
+        "BACKGROUND_TERTIARY": ["#00000000", "#00000000", "#00000000"],
+        "BG_BACKDROP": ["#00000000", "#00000000", "#00000000"],
         
         "BG_BASE_PRIMARY": ["#00000000", "#00000000", "#00000000"],
         "BG_SURFACE_OVERLAY_TMP": ["#000000", "#000000", "#000000"],
