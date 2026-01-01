@@ -34,10 +34,14 @@
     "CARD_SECONDARY_BG": ["#111214", "#111214", "#111214"],
     "CHANNELS_DEFAULT": ["#949ba4", "#949ba4", "#949ba4"],
     "CHANNEL_ICON": ["#80848e", "#80848e", "#80848e"],
+    
     "CHAT_BACKGROUND": ["transparent", "transparent", "transparent"],
+    
     "CHAT_SWIPE_TO_REPLY_BACKGROUND": ["#000000", "#000000", "#000000"],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#6d6f78", "#6d6f78", "#6d6f78"],
-    "CHANNELTEXTAREA_BACKGROUND": ["#111214", "#111214", "#000000"],
+    
+    "CHANNELTEXTAREA_BACKGROUND": ["transparent", "transparent", "transparent"],
+    
     "DEPRECATED_CARD_BG": ["#111214", "#111214", "#000000"],
     "DEPRECATED_CARD_EDITABLE_BG": ["#111214", "#111214", "#000000"],
     "DEPRECATED_QUICKSWITCHER_INPUT_BACKGROUND": ["#111214", "#111214", "#000000"],
@@ -70,7 +74,9 @@
     "INFO_WARNING_BACKGROUND": ["#111214", "#111214", "#000000"],
     "INFO_WARNING_FOREGROUND": ["#000000", "#000000", "#000000"],
     "INFO_WARNING_TEXT": ["#faa61a", "#faa61a", "#faa61a"],
+    
     "INPUT_BACKGROUND": ["#1e1f22", "#1e1f22", "#1e1f22"],
+    
     "INTERACTIVE_ACTIVE": ["#ffffff", "#ffffff", "#ffffff"],
     "INTERACTIVE_HOVER": ["#dcddde", "#dcddde", "#dcddde"],
     "INTERACTIVE_MUTED": ["#4e5058", "#4e5058", "#4e5058"],
