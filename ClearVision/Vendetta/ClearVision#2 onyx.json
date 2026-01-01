@@ -32,7 +32,9 @@
         "BG_BACKDROP": ["#00000000", "#00000000", "#00000000"],
         
         "BG_BASE_PRIMARY": ["#00000000", "#00000000", "#00000000"],
-        "BG_SURFACE_OVERLAY_TMP": ["#000000", "#000000", "#000000"],
+        
+        "BG_SURFACE_OVERLAY_TMP": ["transparent", "transparent", "transparent"],
+        
         "CARD_PRIMARY_BG": ["#000000", "#000000", "#000000"],
         "CARD_SECONDARY_BG": ["#000000", "#000000", "#000000"],
         "CHANNELS_DEFAULT": ["#949ba4", "#949ba4", "#949ba4"],
