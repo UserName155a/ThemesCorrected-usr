@@ -1,13 +1,13 @@
 {
-  "name": "ClearVision Onyx",
-  "description": "True OLED black adjustments for ClearVision.",
-  "authors": [
-    {
-      "name": "Taki_Shiwa, edited by typical"
-      "id": "466968658997149706"
-    }
-  ],
-  "semanticColors": {
+    "name": "ClearVision Onyx Transparent",
+    "description": "Discord pure dark theme with a transparent chat background.",
+    "authors": [
+      {
+         "name": "Taki_Shiwa, edited by Typical",
+         "id": "466968658997149706"
+      }
+    ],
+"semanticColors": {
     "ANDROID_RIPPLE": ["#ffffff1a", "#ffffff1a", "#ffffff1a"],
     "ACTIVITY_CARD_BACKGROUND": ["#2b2d31", "#2b2d31", "#2b2d31"],
     "BACKGROUND_FLOATING": ["#000000", "#000000", "#000000"],
@@ -147,21 +147,25 @@
     "PLUM_16": "#1e1f22",
     "PLUM_22": "#000000"
   },
-  "background": {
-    "url": "https://raw.githubusercontent.com/UserName155a/ThemesCorrected-usr/main/ClearVision/Vendetta/wallpaper-phone-aspect-ratio-tinted.png"
-  },
-  "plus": {
-    "version": 0,
-    "customOverlays": true,
-    "icons": {
-      "ic_mic_neutral": "#dbdee1",
-      "ic_mic_muted_neutral": "#dbdee1",
-      "ic_soundboard": "#dbdee1",
-      "ic_soundboard_muted": "#dbdee1",
-      "ic_video": "#dbdee1",
-      "ic_video_disabled": "#dbdee1"
+    "rawColors": {
+        "PRIMARY_100": "#f2f3f5",
+        "PRIMARY_600": "#000000",
+        "PRIMARY_630": "#000000",
+        "PRIMARY_660": "#000000",
+        "PRIMARY_700": "#000000",
+        "PRIMARY_800": "#000000",
+        "PRIMARY_900": "#000000",
+        "BLACK_500": "#000000",
+        "BRAND_500": "#5865f2",
+        "WHITE_500": "#ffffff"
     },
-    "iconpack": "rosiecord-plumpy"
-  },
-  "spec": 2
+    "background": {
+        "url": "https://raw.githubusercontent.com/UserName155a/ThemesCorrected-usr/main/ClearVision/Vendetta/wallpaper-phone-aspect-ratio-tinted.png"
+    },
+    "plus": {
+        "version": 0,
+        "customOverlays": true,
+        "iconpack": "rosiecord-plumpy"
+    },
+    "spec": 2
 }
